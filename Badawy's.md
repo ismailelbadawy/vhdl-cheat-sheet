@@ -27,7 +27,7 @@ use ieee.std_logic_1164.all;
 
 ### 2. Math for numerics
 ```vhdl
-use iee.numeric_std.all;
+use ieee.numeric_std.all;
 ```
 
 # Entities
